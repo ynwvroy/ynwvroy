@@ -24,7 +24,7 @@ I'm constantly learning and expanding my skill set. Some of the technologies and
 ## 📫 How to Reach Me
 
 You can connect with me on:
-- [LinkedIn](www.linkedin.com/in/victor-njeru-52599126a)
+- [LinkedIn](www.linkedin.com/in/victor-njeru-52599126a/)
 - [Twitter](https://twitter.com/compoundvic)
 - [Github](https://github.com/ynwvroy)
 
