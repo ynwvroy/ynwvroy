@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm Victor, an upcoming software developer passionate about web development. I love coding, problem-solving, and contributing to exciting projects. 
+Welcome to my GitHub profile! I'm Victor, a software developer passionate about web development. I love coding, problem-solving, and contributing to exciting projects. 
 
 ## 🔭 What I'm Currently Working On
 
